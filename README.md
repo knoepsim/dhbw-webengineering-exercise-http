@@ -3,8 +3,8 @@ Bei dieser Übung ist es Ihre Aufgabe mithilfe von Express.js, ein REST Backend 
 
 
 ## Aufgabe
-[Link zur Aufgabe](dhbw-webengineering-exercise-http/blob/main/Exercise_HTTP_2025-01-16.md)
+[Link zur Aufgabe](Exercise_HTTP_2025-01-16.md)
 
 
 ## Postman
-import postman requests: [file](knoepsim/dhbw-webengineering-exercise-http/blob/main/postman%20requests.json)
+import postman requests: [file](postman%20requests.json)
